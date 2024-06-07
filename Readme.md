@@ -51,10 +51,10 @@ python app.py
 
 ## Project Structure
 
-app.py: The main application file containing the Flask routes and image processing logic.
-templates/index.html: The HTML template for the web interface.
-requirements.txt: A file listing the dependencies needed to run the application.
-images/: A directory where uploaded images are saved.
+* app.py: The main application file containing the Flask routes and image processing logic.
+* templates/index.html: The HTML template for the web interface.
+* requirements.txt: A file listing the dependencies needed to run the application.
+* images/: A directory where uploaded images are saved.
 
 ## Usage
 
